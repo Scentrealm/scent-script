@@ -1,2 +1,3 @@
 # scent-script
-Scent script
+
+气味脚本
